@@ -1,0 +1,2 @@
+Pertama kita import data pada csv ke dalam jupyter notebooknya terlebih dahulu
+Kemudian dilakukan beberapa Exploratory Data Analysis seperti: membersihkan data, menghapus kolom yang tidak relevan dan menghapus duplikasi data pada file
